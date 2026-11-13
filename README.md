@@ -2,10 +2,10 @@
 
 ## 2026 Progress
 
-██████████████████████████░░░░  86.4%
+██████████████████████████░░░░  86.6%
 
-315 / 365 days
+316 / 365 days
 
-50 days remaining
+49 days remaining
 
 ![Progress Bar CI](https://github.com/fuscoyu/fuscoyu/workflows/Progress%20Bar%20CI/badge.svg)
